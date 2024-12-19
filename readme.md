@@ -2,7 +2,7 @@
     <img src="https://github.com/Dadangdut33/simple-wallpaper-changer/blob/master/src/assets/logo.png?raw=true" width="250px" alt="Simple Wallpaper Changer Logo">
 </p>
 
-<h1 align="center"> Simple Wallpaper Changer - A simple but useful wallpaper changer </h1>
+<h1 align="center"> Forked - Simple Wallpaper Changer - A simple but useful wallpaper changer </h1>
 <p align="center">
     <a href="https://lgtm.com/projects/g/Dadangdut33/simple-wallpaper-changer/alerts/"><img alt="Total alerts" src="https://img.shields.io/lgtm/alerts/g/Dadangdut33/simple-wallpaper-changer.svg?logo=lgtm&logoWidth=18"/></a>
     <a href="https://lgtm.com/projects/g/Dadangdut33/simple-wallpaper-changer/context:javascript"><img alt="Language grade: JavaScript" src="https://img.shields.io/lgtm/grade/javascript/g/Dadangdut33/simple-wallpaper-changer.svg?logo=lgtm&logoWidth=18"/></a>
@@ -54,6 +54,8 @@ Simple Wallpaper Changer, a simple yet useful wallpaper changer. This app does w
 - Multiple Wallpaper album
 - Folder/album syncing
 - Multi-monitor support
+- [ ] Download Wallpaper with pupular website
+- [ ] Random Online Wallpaper from pupular website
 
 # FAQ
 
