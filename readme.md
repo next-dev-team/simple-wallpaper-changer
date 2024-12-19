@@ -54,8 +54,9 @@ Simple Wallpaper Changer, a simple yet useful wallpaper changer. This app does w
 - Multiple Wallpaper album
 - Folder/album syncing
 - Multi-monitor support
-- [ ] Download Wallpaper with pupular website
+- [ ] Download Wallpaper from pupular website
 - [ ] Random Online Wallpaper from pupular website
+- [ ] Random by pre-selected 
 
 # FAQ
 
